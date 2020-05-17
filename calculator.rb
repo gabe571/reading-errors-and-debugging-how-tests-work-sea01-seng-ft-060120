@@ -2,5 +2,5 @@ first_number = 1
 
 second_number = 3
 
-sum = (first_number.)
+sum = (1 + 3)
 

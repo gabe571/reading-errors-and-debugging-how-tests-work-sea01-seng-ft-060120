@@ -4,4 +4,4 @@ second_number = 3
 
 sum = (1 + 3)
 
-diffrence = (3 - 1)
+difference = (3 - 1)
